@@ -1,4 +1,4 @@
-{"req_id": req_id,
+"{"req_id": req_id,
 "base_url": base_url,
 "entry_data": entry_json.get("CPF_CNPJ"),
 "access_token": tk_response,
@@ -8,5 +8,5 @@
 "operator_role": entry_json.get("Operator_role"),
 "pdv": entry_json.get("PDV"),
 "product": entry_json.get("producto"),
-"maximum_viability_customer": entry_json.get("maximum_viability_custome")}
+"maximum_viability_customer": entry_json.get("maximum_viability_custome")}"
 
